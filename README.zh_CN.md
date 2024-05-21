@@ -33,7 +33,6 @@ import "@souljs/vue-admin-layout/dist/style.css";
 
 <template>
   <AdminLayout></AdminLayout>
-  <PageTab></PageTab>
 </template>
 ```
 
