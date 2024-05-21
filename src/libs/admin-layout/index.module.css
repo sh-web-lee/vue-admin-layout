@@ -1,0 +1,34 @@
+.layout-header {
+  height: var(--soul-header-height);
+  z-index: var(--soul-header-z-index);
+}
+
+.layout-sider {
+  width: var(--soul-sider-width);
+  z-index: var(--soul-sider-z-index);
+}
+
+.layout-mobile-sider {
+  z-index: var(--soul-sider-z-index);
+}
+
+.layout-sider_collapsed {
+  width: var(--soul-sider-collapsed-width);
+  z-index: var(--soul-sider-z-index);
+}
+
+.layout-footer {
+  height: var(--soul-footer-height);
+}
+
+.left-gap {
+  padding-left: var(--soul-sider-width);
+}
+
+.left-gap_collapsed {
+  padding-left: var(--soul-sider-collapsed-width);
+}
+
+.sider-padding-top {
+  padding-top: var(--soul-header-height);
+}
